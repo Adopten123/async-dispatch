@@ -1,0 +1,3 @@
+C:/programming/async-dispatch/build/CMakeFiles/dispatch.dir
+C:/programming/async-dispatch/build/CMakeFiles/ALL_BUILD.dir
+C:/programming/async-dispatch/build/CMakeFiles/ZERO_CHECK.dir
